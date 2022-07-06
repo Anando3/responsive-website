@@ -67,3 +67,40 @@ section h1 {
 #color-body {
     background-color: antiquewhite;
 }
+
+.from-edit {
+    background-color: antiquewhite;
+    padding: 60px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.input-edit {
+    padding: 20px;
+    padding-left: 80px;
+}
+
+.edit-email {
+    padding: 20px;
+}
+
+.input-style {
+    padding: 20px;
+}
+
+#input {
+    padding: 10px;
+    width: 30%;
+    padding-left
+}
+
+.footer-rapper {
+    background-color: black;
+}
+
+.style-color {
+    color: white;
+    padding: 2px;
+    text-align: center;
+    margin-top: 20px;
+}
